@@ -1,0 +1,14 @@
+node_modules/
+dist/
+qa-output/
+
+.env
+.env.*
+*.log
+
+coverage/
+.vite/
+.turbo/
+
+Thumbs.db
+Desktop.ini
